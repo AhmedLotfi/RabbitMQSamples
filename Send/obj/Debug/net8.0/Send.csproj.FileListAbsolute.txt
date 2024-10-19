@@ -1,0 +1,17 @@
+C:\DotNetApps\RabbitMQSamples\send\bin\Debug\net8.0\Send.exe
+C:\DotNetApps\RabbitMQSamples\send\bin\Debug\net8.0\Send.deps.json
+C:\DotNetApps\RabbitMQSamples\send\bin\Debug\net8.0\Send.runtimeconfig.json
+C:\DotNetApps\RabbitMQSamples\send\bin\Debug\net8.0\Send.dll
+C:\DotNetApps\RabbitMQSamples\send\bin\Debug\net8.0\Send.pdb
+C:\DotNetApps\RabbitMQSamples\send\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.csproj.AssemblyReference.cache
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.AssemblyInfoInputs.cache
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.AssemblyInfo.cs
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.csproj.CoreCompileInputs.cache
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.csproj.Up2Date
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.dll
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\refint\Send.dll
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.pdb
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\Send.genruntimeconfig.cache
+C:\DotNetApps\RabbitMQSamples\send\obj\Debug\net8.0\ref\Send.dll

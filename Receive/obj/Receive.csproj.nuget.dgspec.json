@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DotNetApps\\RabbitMQSamples\\Receive\\Receive.csproj": {}
+    "C:\\DotNetApps\\RabbitMQSamples\\receive\\Receive.csproj": {}
   },
   "projects": {
-    "C:\\DotNetApps\\RabbitMQSamples\\Receive\\Receive.csproj": {
+    "C:\\DotNetApps\\RabbitMQSamples\\receive\\Receive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DotNetApps\\RabbitMQSamples\\Receive\\Receive.csproj",
+        "projectUniqueName": "C:\\DotNetApps\\RabbitMQSamples\\receive\\Receive.csproj",
         "projectName": "Receive",
-        "projectPath": "C:\\DotNetApps\\RabbitMQSamples\\Receive\\Receive.csproj",
+        "projectPath": "C:\\DotNetApps\\RabbitMQSamples\\receive\\Receive.csproj",
         "packagesPath": "C:\\Users\\ahmedlotfi\\.nuget\\packages\\",
-        "outputPath": "C:\\DotNetApps\\RabbitMQSamples\\Receive\\obj\\",
+        "outputPath": "C:\\DotNetApps\\RabbitMQSamples\\receive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmedlotfi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

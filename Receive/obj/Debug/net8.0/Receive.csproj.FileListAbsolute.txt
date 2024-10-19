@@ -1,0 +1,17 @@
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.csproj.AssemblyReference.cache
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.AssemblyInfoInputs.cache
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.AssemblyInfo.cs
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.csproj.CoreCompileInputs.cache
+C:\DotNetApps\RabbitMQSamples\receive\bin\Debug\net8.0\Receive.exe
+C:\DotNetApps\RabbitMQSamples\receive\bin\Debug\net8.0\Receive.deps.json
+C:\DotNetApps\RabbitMQSamples\receive\bin\Debug\net8.0\Receive.runtimeconfig.json
+C:\DotNetApps\RabbitMQSamples\receive\bin\Debug\net8.0\Receive.dll
+C:\DotNetApps\RabbitMQSamples\receive\bin\Debug\net8.0\Receive.pdb
+C:\DotNetApps\RabbitMQSamples\receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.csproj.Up2Date
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.dll
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\refint\Receive.dll
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.pdb
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
+C:\DotNetApps\RabbitMQSamples\receive\obj\Debug\net8.0\ref\Receive.dll

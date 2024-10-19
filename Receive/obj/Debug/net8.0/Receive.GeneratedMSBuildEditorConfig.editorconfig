@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Receive
-build_property.ProjectDir = c:\DotNetApps\RabbitMQSamples\Receive\
+build_property.ProjectDir = C:\DotNetApps\RabbitMQSamples\receive\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
